@@ -1,0 +1,462 @@
+{
+  "demo": false,
+  "preview": {
+    "notice": "Concept preview — prepared by SolvynxAI. This preview is for demonstration purposes and is not the official website of Southern Roofing Co..",
+    "formNotice": "This is a concept preview. Forms are not connected or submitted."
+  },
+  "testOnly": false,
+  "meta": {
+    "title": "Southern Roofing Co. | Roofing in Nashville, TN",
+    "description": "Southern Roofing Co.: roof replacement, commercial roofing and roof repair for homes and businesses in Nashville and Middle Tennessee. Free estimates.",
+    "robots": "noindex,nofollow,noarchive"
+  },
+  "brand": {
+    "accent": "#d2432c",
+    "accentDeep": "#b5361f",
+    "section": "#cf422c"
+  },
+  "business": {
+    "name": "Southern Roofing Co.",
+    "shortName": "Southern Roofing",
+    "wordmark": "Southern Roofing",
+    "phone": "(615) 320-1045",
+    "phoneE164": "+16153201045",
+    "email": "info@srctn.com",
+    "address": null,
+    "hours": null,
+    "legal": "Concept preview",
+    "social": []
+  },
+  "nav": {
+    "services": "Services",
+    "work": "Reviews",
+    "areas": "Areas",
+    "crew": "Team",
+    "process": "Process",
+    "faq": "FAQ",
+    "cta": "Free estimate"
+  },
+  "drawer": {
+    "title": "What we do",
+    "link": "All services →",
+    "areasTitle": "Areas we serve",
+    "cards": [
+      {
+        "img": "service-roof-replacement",
+        "badge": "Replacement",
+        "title": "Roof replacement",
+        "meta": "Built for Middle Tennessee"
+      },
+      {
+        "img": "service-siding",
+        "badge": "Commercial",
+        "title": "Commercial roofing",
+        "meta": "GAF PlatinumElite"
+      },
+      {
+        "img": "service-roof-repair",
+        "badge": "Repair",
+        "title": "Roof repair",
+        "meta": "Honest assessment"
+      },
+      {
+        "img": "service-roof-replacement",
+        "badge": "Inspection",
+        "title": "Free inspection",
+        "meta": "No pressure"
+      }
+    ],
+    "promo": {
+      "kicker": "Free estimate",
+      "title": "Get a free roof inspection",
+      "line": "Your roof is inspected and photographed, then you get a detailed proposal.",
+      "button": "Book it"
+    }
+  },
+  "hero": {
+    "eyebrow": "Residential & commercial roofing · Nashville, Tennessee",
+    "title": "Nashville roofs<br /><mark class=\"hl\">since 1981.</mark>",
+    "lead": "Roof replacement and repair for Nashville homes and businesses, in shingle, metal and flat-roof systems built for Middle Tennessee weather.",
+    "cta": "Book a free estimate",
+    "cta2": "See services",
+    "meta": "Est. 1981",
+    "chips": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "roof",
+        "Roofing"
+      ],
+      [
+        "storm",
+        "Storm & claims"
+      ],
+      [
+        "other",
+        "More"
+      ]
+    ],
+    "countLabel": "services",
+    "scrollHint": "Scroll to fly in",
+    "cursorLabel": "View service",
+    "featuredLabel": "Featured service",
+    "diveCta": "All services"
+  },
+  "jobs": [
+    {
+      "k": "roof",
+      "label": "Replacement",
+      "em": "Free est.",
+      "type": null,
+      "town": "Nashville, TN",
+      "title": "Roof replacement",
+      "img": "service-roof-replacement",
+      "line": "Full replacements in shingle, metal and flat-roof systems, installed to manufacturer spec.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        1240,
+        900
+      ]
+    },
+    {
+      "k": "roof",
+      "label": "Commercial",
+      "em": null,
+      "type": null,
+      "town": "Nashville, TN",
+      "title": "Commercial roofing",
+      "img": "service-siding",
+      "line": "Commercial roofing from a GAF PlatinumElite contractor.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        760,
+        520
+      ]
+    },
+    {
+      "k": "roof",
+      "label": "Repair",
+      "em": null,
+      "type": null,
+      "town": "Nashville, TN",
+      "title": "Roof repair",
+      "img": "service-roof-repair",
+      "line": "Repairs that start with a free inspection and an honest assessment.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        1820,
+        1300
+      ]
+    },
+    {
+      "k": "storm",
+      "label": "Inspection",
+      "em": null,
+      "type": null,
+      "town": "Nashville, TN",
+      "title": "Free inspection",
+      "img": "service-roof-replacement",
+      "line": "A free roof inspection.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        560,
+        1290
+      ]
+    }
+  ],
+  "stats": {
+    "eyebrow": "01 · Southern Roofing",
+    "title": "Trusted<br /><mark>since 1981.</mark>",
+    "body": "GAF Certified for homes and GAF PlatinumElite for commercial, with free inspections and honest assessments.",
+    "cta": "Get a free estimate",
+    "signs": [
+      {
+        "value": "1981",
+        "label": "established"
+      },
+      {
+        "count": 4,
+        "label": "roofing services"
+      },
+      {
+        "count": 2,
+        "label": "service areas"
+      }
+    ],
+    "tickerLabel": "Why Southern Roofing",
+    "tickerBadge": null,
+    "ticker": [
+      [
+        "Trusted by Nashville homeowners since 1981",
+        ""
+      ],
+      [
+        "GAF Certified residential",
+        ""
+      ],
+      [
+        "GAF PlatinumElite commercial",
+        ""
+      ],
+      [
+        "Free inspection and honest assessment",
+        ""
+      ],
+      [
+        "Established relationships with local suppliers",
+        ""
+      ]
+    ]
+  },
+  "services": {
+    "eyebrow": "02 · Services",
+    "title": "Shingle, metal<br /><mark>or flat.</mark>",
+    "cta": "Free estimate",
+    "countLabel": "services",
+    "linkLabel": "Book a free estimate",
+    "tabs": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "roof",
+        "Roofing"
+      ],
+      [
+        "storm",
+        "Storm & claims"
+      ],
+      [
+        "other",
+        "More"
+      ]
+    ],
+    "items": [
+      {
+        "f": "roof",
+        "big": true,
+        "tag": "Replacement",
+        "img": "service-roof-replacement",
+        "title": "Roof replacement",
+        "sub": "Built for Middle Tennessee",
+        "line": "Full replacements in shingle, metal and flat-roof systems, installed to manufacturer spec.",
+        "specs": "Shingle · metal · flat",
+        "pin": [
+          "Nashville",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "roof",
+        "big": false,
+        "tag": "Commercial",
+        "img": "service-siding",
+        "title": "Commercial roofing",
+        "sub": "GAF PlatinumElite",
+        "line": null,
+        "specs": "Commercial",
+        "pin": [
+          "Nashville",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "roof",
+        "big": false,
+        "tag": "Repair",
+        "img": "service-roof-repair",
+        "title": "Roof repair",
+        "sub": "Honest assessment",
+        "line": null,
+        "specs": "Repair",
+        "pin": [
+          "Nashville",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "storm",
+        "big": false,
+        "tag": "Inspection",
+        "img": "service-roof-replacement",
+        "title": "Free inspection",
+        "sub": "No pressure",
+        "line": null,
+        "specs": "Free",
+        "pin": [
+          "Nashville",
+          "free estimate"
+        ]
+      }
+    ]
+  },
+  "areas": {
+    "eyebrow": "03 · Areas we serve",
+    "title": "Middle<br /><mark>Tennessee.</mark>",
+    "body": "Serving Nashville and Middle Tennessee.",
+    "cardLink": "Book a free estimate →",
+    "center": [
+      30,
+      46
+    ],
+    "items": [
+      {
+        "n": "Nashville",
+        "c": "TN",
+        "x": 30,
+        "y": 46,
+        "img": "service-roof-replacement",
+        "badge": "Service area",
+        "stats": null,
+        "note": "Free inspection and estimate in Nashville."
+      },
+      {
+        "n": "Middle Tennessee",
+        "c": "TN",
+        "x": 14,
+        "y": 26,
+        "img": "service-siding",
+        "badge": "Service area",
+        "stats": null,
+        "note": "Free inspection and estimate in Middle Tennessee."
+      }
+    ]
+  },
+  "estimate": {
+    "eyebrow": "04 · Free estimate",
+    "title": "Tell us about<br /><mark class=\"dark\">your roof.</mark>",
+    "body": "Share a few details and we will follow up about your roof.",
+    "cardTitle": "Quick request",
+    "addressPlaceholder": "Street address",
+    "resultLabel": "Your roof",
+    "basis": "Free inspection in {town}",
+    "pricing": null,
+    "noPriceNote": "Material, roof height and pitch all affect the price. You get an exact price after an inspection, with no guesswork.",
+    "cta": "Book my free estimate",
+    "foot": "Free estimates"
+  },
+  "process": {
+    "eyebrow": "How it works · 4 steps",
+    "title": "4 steps,<br /><mark>start to finish.</mark>",
+    "counterLabel": "Step",
+    "steps": [
+      {
+        "t": "Get in touch",
+        "x": "Call (615) 320-1045 or send the form below with a few details about your roof.",
+        "img": "ba-storm-before",
+        "vf": "Get in touch",
+        "pin": null,
+        "live": "Get in touch",
+        "chip": "Get in touch",
+        "flap": "GET IN TOU"
+      },
+      {
+        "t": "Inspection",
+        "x": "The roof is looked over on site so the work can be scoped properly.",
+        "img": "ba-worn-before",
+        "vf": "Inspection",
+        "pin": null,
+        "live": "Inspection",
+        "chip": "Inspection",
+        "flap": "INSPECTION"
+      },
+      {
+        "t": "Proposal",
+        "x": "You receive the scope of work and the price before anything starts.",
+        "img": "service-roof-repair",
+        "vf": "Proposal",
+        "pin": null,
+        "live": "Proposal",
+        "chip": "Proposal",
+        "flap": "PROPOSAL"
+      },
+      {
+        "t": "The work",
+        "x": "Work is scheduled at a time that suits you.",
+        "img": "service-roof-replacement",
+        "vf": "The work",
+        "pin": null,
+        "live": "The work",
+        "chip": "The work",
+        "flap": "THE WORK"
+      }
+    ]
+  },
+  "crew": {
+    "show": false,
+    "items": []
+  },
+  "stories": {
+    "show": false,
+    "eyebrow": "05 · Reviews",
+    "title": "What customers<br /><mark>say.</mark>",
+    "plateTitle": "Review",
+    "photoNote": "Illustrative photo",
+    "items": []
+  },
+  "season": {
+    "show": false,
+    "towns": {},
+    "posts": []
+  },
+  "faq": {
+    "eyebrow": "05 · Questions",
+    "title": "Questions,<br /><mark>answered.</mark>",
+    "contactLead": "Didn’t see your question? Call",
+    "contactJoin": "or email",
+    "contactTail": "",
+    "cta": "Call us",
+    "tabs": [
+      [
+        "all",
+        "All"
+      ]
+    ],
+    "items": [
+      {
+        "g": "all",
+        "q": "What services do you offer?",
+        "a": "Roof replacement, commercial roofing, roof repair and free inspection."
+      },
+      {
+        "g": "all",
+        "q": "Which areas do you serve?",
+        "a": "Nashville and Middle Tennessee, TN."
+      },
+      {
+        "g": "all",
+        "q": "How do I get a free estimate?",
+        "a": "Use the form on this page, or call (615) 320-1045 and email info@srctn.com."
+      }
+    ]
+  },
+  "book": {
+    "eyebrow": "Free estimate",
+    "title": "Book a free<br /><mark>inspection.</mark>",
+    "body": "Choose a service and a time that suits you, and the team will be in touch to confirm.",
+    "cardTitle": "Book a free estimate",
+    "cardNote": "About 60 seconds",
+    "times": [
+      "9:00 am",
+      "11:00 am",
+      "1:00 pm",
+      "3:00 pm"
+    ],
+    "submit": "Request visit",
+    "thanks": "Thanks, <b>{name}</b>. This is a concept preview. Forms are not connected or submitted. To book, call (615) 320-1045.",
+    "under": "Est. 1981",
+    "callPrefix": "Or call"
+  },
+  "footer": {
+    "officeLabel": "Contact",
+    "companyTitle": "Company",
+    "newsletter": null
+  }
+}
